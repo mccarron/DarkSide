@@ -35,16 +35,23 @@ class BrokenViewController: UIViewController {
         titleLabel.textColor = textColor
         bodyLabel.textColor = textColor
 
-//        // Also can do these
-//        view.backgroundColor = .systemBackground
+// Step 1: Also can do these w/ Asset Library Shortcuts (DEBUG build only here)
+//        view.backgroundColor = .backgroundSecondary
+//        titleLabel.backgroundColor = .backgroundSecondary
+
+
+// Step 2: Also can do these w/ code
 //        view.backgroundColor = .dynamic(light: .white, dark: .black)
+//        titleLabel.backgroundColor = .dynamic(light: .white, dark: .black)
     }
 
+// Step 4: Fix by uncommenting this
 //    override func viewDidLayoutSubviews() {
 //        super.viewDidLayoutSubviews()
 //        update()
 //    }
 
+// Step 5: Or fix by uncommenting this
 //    public override func traitCollectionDidChange(_ previous: UITraitCollection?) {
 //        super.traitCollectionDidChange(previous)
 //
