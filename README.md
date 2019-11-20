@@ -5,7 +5,8 @@
 ### Presentation Slides at SpeakerDeck: 
 * https://speakerdeck.com/mccarron/dark-mode-ins-and-outs
 
-Sample Project for Dark Mode talk at Chicago Cocoaheads on 11/19/19
+### Talk Synopsis:
+Patrick shares with how to ready your app for iOS 13’s most popular feature.
 
 ## Links
 
