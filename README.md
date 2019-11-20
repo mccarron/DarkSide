@@ -1,4 +1,10 @@
-# DarkSide
+# Dark Mode Ins & Outs - DarkSide Example Project
+## Cocoaheads Chicago
+## 11/19/2019
+
+### Presentation Slides at SpeakerDeck: 
+* https://speakerdeck.com/mccarron/???
+
 Sample Project for Dark Mode talk at Chicago Cocoaheads on 11/19/19
 
 ## Links
