@@ -3,7 +3,7 @@
 ## 11/19/2019
 
 ### Presentation Slides at SpeakerDeck: 
-* https://speakerdeck.com/mccarron/???
+* https://speakerdeck.com/mccarron/dark-mode-ins-and-outs
 
 Sample Project for Dark Mode talk at Chicago Cocoaheads on 11/19/19
 
